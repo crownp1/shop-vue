@@ -1,0 +1,5 @@
+/build/
+/config/
+/dist/
+/*.js
+src/lib/dist/js/mui.min.js
